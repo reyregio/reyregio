@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Regi Fenoglio</h1>
 <h3 align="center">A passionate full stack web developer from Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reyregio&label=Profile%20views&color=0e75b6&style=flat](https://gifdb.com/images/high/typing-cat-that-coding-course-cm8t6kuj45394ek3.gif" alt="reyregio" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reyregio&label=Profile%20views&color=0e75b6&style=flat" alt="reyregio" /> </p>
 
 - 🌱 I’m currently learning **Figma, Firebase, and React Native**
 
