@@ -2,8 +2,7 @@
 )](www.linkedin.com/in/regi-fenoglio-bb2499209)
 
 <h1 align="center">Hi 👋, I'm Regi Fenoglio</h1>
-<h3 align="center">A passionate full stack web developer from Argentina 
-Hello! I'm Regi, a passionate Full Stack Web Developer. Proficient in React, CSS, JavaScript, and HTML, I aim to create user-friendly apps using technologies like Tailwind and Material UI.
+<h3 align="center">A passionate full-stack web developer from Argentina. Proficient in React, CSS, JavaScript, and HTML, I aim to create user-friendly apps using technologies like Tailwind and Material UI.
 
 My back-end skills include Node.js and Express for building robust web applications. With expertise in SQL databases, I efficiently design and manage data structures.
 
